@@ -7,15 +7,24 @@ body {
 
 .first-row {
 	display: flex;
+<<<<<<< HEAD
 	justify-content: center;
 	gap: 210px;
+=======
+	justify-content: space-around;
+>>>>>>> 0530d6869f2ec917afd60ecfb2f2f4ec81912a1c
 }
 
 .second-row {
 	display: flex;
+<<<<<<< HEAD
 	justify-content: center;
 	margin-left: 70px;
 	gap: 100px;
+=======
+	justify-content: space-around;
+	margin-left: 70px;
+>>>>>>> 0530d6869f2ec917afd60ecfb2f2f4ec81912a1c
 }
 
 .header,
@@ -27,7 +36,11 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
+<<<<<<< HEAD
 	height: 700px;
+=======
+	min-height: 700px;
+>>>>>>> 0530d6869f2ec917afd60ecfb2f2f4ec81912a1c
 }
 
 .header-logo-text {
@@ -35,7 +48,10 @@ body {
 	color: #F9FAF8;
 	font-weight: bold;
 	margin-left: 40px;
+<<<<<<< HEAD
 	margin-top: 12px;
+=======
+>>>>>>> 0530d6869f2ec917afd60ecfb2f2f4ec81912a1c
 }
 
 .header-links,
@@ -114,6 +130,7 @@ ul {
 a {
 	text-decoration: none;
 }
+<<<<<<< HEAD
 
 .two {
 	background-color: white;
@@ -180,3 +197,5 @@ a {
 	color: #1F2937;
 	margin-right: 1950px;
 }
+=======
+>>>>>>> 0530d6869f2ec917afd60ecfb2f2f4ec81912a1c
