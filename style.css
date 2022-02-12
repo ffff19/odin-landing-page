@@ -179,3 +179,50 @@ a {
 	color: #1F2937;
 	margin-right: -560px;
 }
+
+.four {
+	background-color: white;
+	height: 480px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.call-to-action {
+	background-color: #3882F6;
+	height: 180px;
+	width: 1300px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sentences {
+	display: flex;
+	flex-direction: column;
+}
+
+.first-sentence {
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+
+.button-four {
+	display: flex;
+	background-color: #3882F6;
+	width: 170px;
+	height: 50px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 6px;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 250px;
+	margin-right: 30px;
+}
